@@ -4,7 +4,6 @@ This is the repository of our Final year Btech's Capstone Project group.
 The Goal of the group till now "FABRICATION OF CHIP".
 
 ///////////////////////////////////////////////////////
-
 Work done till now is:-
 
 1)Layout of Inverter (.gds file in repository;)
